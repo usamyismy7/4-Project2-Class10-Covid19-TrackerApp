@@ -1,18 +1,16 @@
 # COVID-19 Tracker
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://covid19trackerusama.surge.sh/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![covid1](https://user-images.githubusercontent.com/67833697/131779865-99d08bd6-c9f6-4dae-86fe-056cae581da2.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+![covid2](https://user-images.githubusercontent.com/67833697/131780068-450cece2-a209-4a51-b30b-7add1979796a.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+This is a COVID-19 Tracker App. 
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+React JS Project (Hooks, Material UI, Charts js).
 
 API used: https://covid19.mathdro.id/api
 
